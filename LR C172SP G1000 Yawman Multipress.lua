@@ -339,13 +339,13 @@ function multipressLRC172SP_buttons()
 			STILL_PRESSED = true
 		end
 
-		if wheel_up_pressed and not DPAD_PRESSED then
+		if wheel_up_pressed and not DPAD_PRESSED and not BUMPERS_PRESSED then
 			for z = 0,2,1 do -- make the wheel turn a bit faster per press
 				command_once("sim/flight_controls/pitch_trim_up")
 			end
 		end
 		
-		if wheel_down_pressed and not DPAD_PRESSED then
+		if wheel_down_pressed and not DPAD_PRESSED and not BUMPERS_PRESSED then
 			for z = 0,2,1 do
 				command_once("sim/flight_controls/pitch_trim_down")
 			end

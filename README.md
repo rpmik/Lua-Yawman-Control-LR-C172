@@ -41,7 +41,7 @@ Some Yawman documentation refer to these as MF 1L (SP1), MF 1C (SP2), MF 1R (SP3
 	* Right Bumper = FLCH Button
 * SP 2 plus
 	* DPAD Down = Approach Button
-	* DPAD Left = Localizer Button (I think)
+	* DPAD Left = Default NAV Button (I'm being lazy)
 	* DPAD Up = G1000 Pilot's VNAV Button
 	* DPAD Right = G1000 Pilot's NAV Button
 	* Right Bumper = G1000 Pilot's Flight Director

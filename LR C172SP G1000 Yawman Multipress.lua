@@ -141,6 +141,7 @@ function multipressLRC172SP_buttons()
 				set_button_assignment(DPAD_RIGHT,NoCommand)
 			end
 			
+--[[
 			if dpad_up_pressed then
 				meterC172SPInteraction(DPAD_PRESSED,"sim/autopilot/airspeed_up", "sim/autopilot/airspeed_up", 1.0, 2.0) -- at around two seconds, use larger increment
 				DPAD_PRESSED = true
@@ -148,6 +149,7 @@ function multipressLRC172SP_buttons()
 				meterC172SPInteraction(DPAD_PRESSED,"sim/autopilot/airspeed_down", "sim/autopilot/airspeed_down",1.0,2.0)
 				DPAD_PRESSED = true
 			end
+]]
 			
 
 		-- Pause Simulation
@@ -239,6 +241,8 @@ function multipressLRC172SP_buttons()
 		if left_bumper_pressed then
 			set_button_assignment(SIXPACK_2,NoCommand)
 			set_button_assignment(SIXPACK_1,NoCommand)
+			set_button_assignment(WHEEL_UP, NoCommand)
+			set_button_assignment(WHEEL_DOWN,NoCommand)
 
 			if wheel_up_pressed or wheel_down_pressed then
 				meterC172SPInteraction(BUMPERS_PRESSED, "sim/flight_controls/brakes_toggle_max", "sim/flight_controls/brakes_toggle_max", 2.0, 20) -- at around two seconds, use larger increment

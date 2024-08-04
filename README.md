@@ -13,6 +13,8 @@ Save _LR C172SP G1000 Yawman Multipress.lua_ to /X-Plane 12/Resources/plugins/Fl
 
 Assignments closely matches Yawman's PMDG 777 mappings. See their [discord](https://discord.gg/dcpTc5KP).
 
+But the wheel is trim by default. However, I have made it move a bit faster with the wheel. Pitch up and down with the POV up and down works, but they're for fine adjustments.
+
 # Assignments are In Work!
 Sixpack 1, 2, 3, 4, 5, and 6 are referred to as SP1, SP2, SP3 etc. These are the two rows of three buttons, where the upper-most left button is 1 and the lower-most right button is 6.
 

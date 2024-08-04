@@ -1,6 +1,7 @@
 * [See my profile for additional aircraft](https://github.com/rpmik)
 
 # Requirements
+* Laminar's Cessna 172SP with the G1000
 * [X-Plane 12](https://www.x-plane.com/) only
 * [FlyWithLua 2.8 for X-Plane 12](https://forums.x-plane.org/index.php?/files/file/82888-flywithlua-ng-next-generation-plus-edition-for-x-plane-12-win-lin-mac/)
 * [Yawman Arrow Controller](https://yawmanflight.com/)

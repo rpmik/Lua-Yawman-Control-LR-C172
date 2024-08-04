@@ -35,9 +35,9 @@ Some Yawman documentation refer to these as MF 1L (SP1), MF 1C (SP2), MF 1R (SP3
 
 
 * SP1 plus
-	* DPAD Up = AT Speed Up
-	* DPAD Down = AT Speed Down
-	* DPAD Right = AT Engage Button
+	* DPAD Up = Unassigned
+	* DPAD Down = Unassigned
+	* DPAD Right = Unassigned
 	* Right Bumper = FLCH Button
 * SP 2 plus
 	* DPAD Down = Approach Button

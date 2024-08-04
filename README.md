@@ -89,4 +89,6 @@ Some Yawman documentation refer to these as MF 1L (SP1), MF 1C (SP2), MF 1R (SP3
 
 # TODO
 * Finish C172 assignments, maybe add more interaction with the G1000
+* Fill in unassigned buttons
+* Fix SP2 + DPAD Left so it is useful
 * Implement radio tuning

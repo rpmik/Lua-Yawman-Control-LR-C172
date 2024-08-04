@@ -88,5 +88,5 @@ Some Yawman documentation refer to these as MF 1L (SP1), MF 1C (SP2), MF 1R (SP3
 	* Right Bumper = Unassigned
 
 # TODO
-* Finish E175 assignments.
+* Finish C172 assignments, maybe add more interaction with the G1000
 * Implement radio tuning

@@ -10,7 +10,7 @@
 # Installation
 Note that the current script does not modify your axes. You'll need to set up your Yawman Arrow's axes as you like.
 
-Save _LR B738 Yawman Multipress.lua_ to /X-Plane 12/Resources/plugins/FlyWithLua/Scripts
+Save _LR C172SP G1000 Yawman Multipress.lua_ to /X-Plane 12/Resources/plugins/FlyWithLua/Scripts
 
 Assignments closely matches Yawman's PMDG 777 mappings. See their [discord](https://discord.gg/dcpTc5KP).
 

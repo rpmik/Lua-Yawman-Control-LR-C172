@@ -11,7 +11,7 @@ Note that the current script does not modify your axes. You'll need to set up yo
 
 Save _LR C172SP G1000 Yawman Multipress.lua_ to /X-Plane 12/Resources/plugins/FlyWithLua/Scripts
 
-Assignments closely matches Yawman's PMDG 777 mappings. See their [discord](https://discord.gg/dcpTc5KP).
+See Yawman's [discord](https://discord.gg/dcpTc5KP).
 
 But the wheel is trim by default. However, I have made it move a bit faster with the wheel. Pitch up and down with the POV up and down works, but they're for fine adjustments.
 

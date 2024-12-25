@@ -1,8 +1,9 @@
+# More Aircraft Scripts for the Yawman Arrow Controller
 * [Full and Most Up To Date Aircraft Script List](https://www.distortions.net/yawman-arrow-controller-xplane/#:~:text=All%20the%20Scripts%20(Github%20Downloads)) (at distortions.net)
 
 # Requirements
-* Laminar's Cessna 172SP with the G1000
 * [X-Plane 12](https://www.x-plane.com/) only
+* Laminar's Cessna 172SP with the G1000 (no mods)
 * [FlyWithLua 2.8 for X-Plane 12](https://forums.x-plane.org/index.php?/files/file/82888-flywithlua-ng-next-generation-plus-edition-for-x-plane-12-win-lin-mac/)
 * [Yawman Arrow Controller](https://yawmanflight.com/)
 

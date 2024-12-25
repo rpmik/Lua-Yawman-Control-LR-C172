@@ -1,4 +1,4 @@
-* [See my profile for additional aircraft](https://github.com/rpmik)
+* [Full and Most Up To Date Aircraft Script List](https://www.distortions.net/yawman-arrow-controller-xplane/#:~:text=All%20the%20Scripts%20(Github%20Downloads)) (at distortions.net)
 
 # Requirements
 * Laminar's Cessna 172SP with the G1000
